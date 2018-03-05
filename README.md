@@ -6,6 +6,7 @@ https://rinormaloku.com/introduction-application-architecture/
 * https://steelkiwi.com/blog/best-practices-working-django-models-python/
 
 ### Tutorials
+* http://docs.python-guide.org/en/latest/writing/gotchas/
 * http://www.damiantgordon.com/Videos/ProgrammingAndAlgorithms/MainMenu.html
 
 ### Testing
