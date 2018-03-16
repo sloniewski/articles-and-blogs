@@ -4,6 +4,7 @@ https://rinormaloku.com/introduction-application-architecture/
 
 ### Django
 * https://steelkiwi.com/blog/best-practices-working-django-models-python/
+* https://micropyramid.com/blog/querying-with-django-q-objects/
 
 ### Tutorials
 * http://docs.python-guide.org/en/latest/writing/gotchas/
