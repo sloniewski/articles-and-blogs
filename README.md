@@ -2,6 +2,10 @@
 
 https://rinormaloku.com/introduction-application-architecture/
 
+### Webdev with python
+* https://wtforms.readthedocs.io/en/stable/
+* https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 ### Django
 * https://steelkiwi.com/blog/best-practices-working-django-models-python/
 * https://micropyramid.com/blog/querying-with-django-q-objects/
