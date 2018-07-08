@@ -30,3 +30,6 @@ https://damyanon.net/post/flask-series-environment/
 ### Docker
 * https://blog.devartis.com/django-development-with-docker-a-completed-development-cycle-7322ad8ba508
 * https://nickjanetakis.com/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose
+
+### Javascript
+* https://blog.lavrton.com/hit-region-detection-for-html5-canvas-and-how-to-listen-to-click-events-on-canvas-shapes-815034d7e9f8
