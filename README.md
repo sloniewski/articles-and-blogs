@@ -13,6 +13,10 @@ https://rinormaloku.com/introduction-application-architecture/
 * https://steelkiwi.com/blog/best-practices-working-django-models-python/
 * https://micropyramid.com/blog/querying-with-django-q-objects/
 
+### Django REST Framework
+https://sunscrapers.com/blog/ultimate-tutorial-django-rest-framework-part-1/
+https://sunscrapers.com/blog/django-rest-framework-login-and-authentication/
+
 ### Flask
 https://damyanon.net/post/flask-series-environment/
 
