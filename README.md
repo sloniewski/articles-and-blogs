@@ -1,6 +1,7 @@
 # Usefull articles and blog posts
 
 https://rinormaloku.com/introduction-application-architecture/
+http://www.learningaboutelectronics.com/Python/
 
 ### Webdev with python
 * https://wtforms.readthedocs.io/en/stable/
