@@ -12,7 +12,14 @@ http://www.learningaboutelectronics.com/Python/
 
 ### Django
 * https://steelkiwi.com/blog/best-practices-working-django-models-python/
-* https://micropyramid.com/blog/querying-with-django-q-objects/
+* https://wsvincent.com/django-models-best-practices/
+
+### Django ORM
+* http://books.agiliq.com/projects/django-orm-cookbook/en/latest/
+
+### Django Testing
+* https://lukewickstead.wordpress.com/2015/07/16/django-testing/
+* https://django-testing-docs.readthedocs.io/en/latest/index.html
 
 ### Django REST Framework
 https://sunscrapers.com/blog/ultimate-tutorial-django-rest-framework-part-1/
@@ -25,8 +32,6 @@ https://damyanon.net/post/flask-series-environment/
 * http://docs.python-guide.org/en/latest/writing/gotchas/
 * http://www.damiantgordon.com/Videos/ProgrammingAndAlgorithms/MainMenu.html
 
-### Testing
-* https://lukewickstead.wordpress.com/2015/07/16/django-testing/
 
 ### Celery
 * https://medium.com/@bencleary/django-scheduled-tasks-queues-part-2-fc1fb810b81d
